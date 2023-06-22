@@ -1,4 +1,4 @@
-﻿using ConsoleApp1;
+﻿using Alunos;
 using System.Text;
 
 string baseUrl = "http://localhost:3000/aluno";
@@ -68,7 +68,9 @@ async static Task GetAluno(string baseUrl)
 
             foreach (var item in alunos)
             {
-                //console
+                //Console.Write($"Nome: {item.Nome}");
+                //Console.Write($"Idade: {item.Idade}");
+                //Console.Write($"RA: {item.RA}");
             }
         }
         catch (Exception)
