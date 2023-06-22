@@ -1,0 +1,15 @@
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\bin\Debug\net6.0\soma.exe
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\bin\Debug\net6.0\soma.deps.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\bin\Debug\net6.0\soma.runtimeconfig.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\bin\Debug\net6.0\soma.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\bin\Debug\net6.0\soma.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\soma.csproj.AssemblyReference.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\soma.AssemblyInfoInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\soma.AssemblyInfo.cs
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\soma.csproj.CoreCompileInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\soma.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\refint\soma.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\soma.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\soma.genruntimeconfig.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\Revisao\soma\soma\obj\Debug\net6.0\ref\soma.dll
